@@ -1,6 +1,5 @@
 ---
 layout: page
-# image: /assets/img/blog/hydejack-9.jpg
 title: 硕士申请理念 | Master’s Application Philosophy
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
