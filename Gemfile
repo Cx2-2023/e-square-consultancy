@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.9"
 
+gem "jekyll-theme-hydejack"
+
 # Required for `jekyll serve` in Ruby 3
 gem "webrick"
 
@@ -22,4 +24,3 @@ end
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 
-gem "jekyll-theme-hydejack"
