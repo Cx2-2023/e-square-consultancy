@@ -58,6 +58,8 @@ menu:
     url:               /services/
   - title:             Blog | 博客
     url:               /blog/
+  - title:             Contact | 联系我们
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

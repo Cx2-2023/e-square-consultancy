@@ -23,8 +23,8 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    email:           <sample_email@gmail.com>
-    wechat:          effy_education_fancy/contact/
+    # email:           <sample_email@gmail.com>
+    # wechat:          effy_education_fancy/contact/
     # twitter:         <username>
     # github:          <username>
     # email:           <mail@domain.tld>
