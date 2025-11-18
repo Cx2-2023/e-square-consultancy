@@ -18,5 +18,5 @@ Effy Zhang 创始人 VIP 灯塔计划，每年仅开放 10 个珍贵席位。这
 
 ## Contact 联系我们 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/img/blog/wechat_contact.png.png" style="width: 30%;">
+  <img src="/assets/img/blog/wechat_contact.png" style="width: 30%;">
 </div>

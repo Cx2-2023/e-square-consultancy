@@ -7,6 +7,9 @@ description: >
 hide_description: true
 ---
 
+* this unordered seed list will be replaced by the toc
+{:toc}
+
 - 覆盖学校： 专注于英国G5和美国Top 30顶尖硕士项目申请
 - 主攻学科： 专注于顶尖商科（金融、经济、管理、市场营销）和量化项目
 

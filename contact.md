@@ -5,8 +5,6 @@ description: >
   with a focus on personal sites that are meant to impress.
 image: /assets/img/wechat_contact.png
 hide_description: true
-redirect_from:
-  - /wechat/
 ---
 
 # Contact 联系我们 

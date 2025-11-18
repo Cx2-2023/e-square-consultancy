@@ -5,8 +5,10 @@ description: >
   随着帝国理工QS排名火箭般上升，ICBS专业也是愈发火热。但ICBS的文书和面试一直是大家无从下手的地方。今天用这篇文章，给大家一次性讲清ICBS硕士文书究竟怎么写！
 sitemap: false
 hide_last_modified: true
-hide_description: false
+hide_description: true
 ---
+* this unordered seed list will be replaced by the toc
+{:toc}
 
 随着帝国理工QS排名火箭般上升，ICBS专业也是愈发火热。但ICBS的文书和面试一直是大家无从下手的地方。今天用这篇文章，给大家一次性讲清ICBS硕士文书究竟怎么写！
 
