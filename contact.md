@@ -13,4 +13,4 @@ hide_description: true
 sample_email@gmail.com
 
 ## 微信联系方式
-![wechat_contact](/assets/img/blog/wechat_contact.png)
+<img src="{{ '/assets/img/blog/wechat_contact.png' | relative_url }}" width="200" alt="wechat_contact">
