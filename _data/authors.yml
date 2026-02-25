@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Effy> <Education>
+  name:              E Square Consultancy
   email:             <sample_email@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Effy Education 创始人。剑桥大学经济学硕士（MPhil in Economics），香港中文大学金融学本科（成绩前 3%）。曾就职于顶尖外资投行 Morgan Stanley，申请商科硕士阶段获得多个欧美名校 offer（剑桥、MIT、哥大、LBS 等）。在求职阶段获得欧美顶尖外资投行的工作机会（Goldman Sachs Equity Research 和 Morgan Stanley IBD），负责新能源和交通运输领域企业融资和并购，参与项目包括极兔快递香港 IPO。2022 年起出于对教育科技领域事业的热情，投身于教育科技，致力于使用 AI 技术赋能教育领域全链路。
+    E Square Consultancy 创始人。剑桥大学经济学硕士（MPhil in Economics），香港中文大学金融学本科（成绩前 3%）。曾就职于顶尖外资投行 Morgan Stanley，申请商科硕士阶段获得多个欧美名校 offer（剑桥、MIT、哥大、LBS 等）。在求职阶段获得欧美顶尖外资投行的工作机会（Goldman Sachs Equity Research 和 Morgan Stanley IBD），负责新能源和交通运输领域企业融资和并购，参与项目包括极兔快递香港 IPO。2022 年起出于对教育科技领域事业的热情，投身于教育科技，致力于使用 AI 技术赋能教育领域全链路。
     
   # This photo will be used in the about section
   picture:
