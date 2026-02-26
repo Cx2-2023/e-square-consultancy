@@ -51,10 +51,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Services | 服务
-    url:               /services/
   - title:             About | 关于
     url:               /about/
+  - title:             Services | 服务
+    url:               /services/
   - title:             Team | 团队
     url:               /team/
   - title:             Philosophy | 理念
